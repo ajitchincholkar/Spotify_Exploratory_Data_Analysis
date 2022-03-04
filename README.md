@@ -12,5 +12,5 @@ I wanted to know what factors affect the popularity of songs, what increases the
 ## Python Libraries Used 
 - Numpy
 - Pandas
-- Matplotlin
+- Matplotlib
 - Seaborn
